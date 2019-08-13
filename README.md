@@ -6,7 +6,7 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
-[Dentalkart]
+[Dentalkart](https://www.dentalkart.com)
 Dentalkart is the worlds largest online dental shopping store. Dentalkart is one stop shop to cater to all dental need which includes Dental equipments, materials, instruments, endodontic files, composites, Resins, Cements, Impression materials, Endomotors, Handpieces, compressors, Chairs, UV Chambers, autoclaves and many more from various categories like endodontic, orthodontic, prosthodontic, restoratives, oral surgery, General Dentistry, periodontics, paedodontics, implantology etc.
 * [iTunes Store](https://itunes.apple.com/app/dentalkart/id1382207992?ls=1&mt=8)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.vasadental.dentalkart)
